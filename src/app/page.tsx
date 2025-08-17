@@ -7,9 +7,9 @@ export default function Home() {
                 <section id="intro">
                     <h1>Valentin Gelly</h1>
                     <p>
-                        Bienvenu sur mon site personnel. Je m'appel Valentin Gelly et je suis un développeur web.
+                        Bienvenu sur mon site personnel. Je m&#39;appel Valentin Gelly et je suis un développeur web.
                         Cela fais maintenant 5 années que je réalise des site ainsi que des applications web dans le cadre de mes formations ainsi que des projets annexes.
-                        Dans ce site vous pourrez retrouvé les différents projet que j'ai pu réalisé ainsi que mon parcours.
+                        Dans ce site vous pourrez retrouvé les différents projet que j&#39;ai pu réalisé ainsi que mon parcours.
                     </p>
                 </section>
                 <section id="projects" className="flex wrap gap-8">
